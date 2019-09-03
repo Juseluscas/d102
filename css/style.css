@@ -7,7 +7,10 @@ body{
 }
 
 header{
-    background-image: url(MinecraftiaRegular);
+    background-image: url("../img/minecraft-hero-og.jpg");
+    background-size: cover;
+    height: 500px;
+    background-repeat: no-repeat;
 }
 
 nav{
