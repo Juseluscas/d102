@@ -1,5 +1,6 @@
 a:hover{
     font-size: 16pt;
+    color: blue;
 }
 
 body{
@@ -22,4 +23,10 @@ nav{
     font-style: normal;
     display: flex;
     justify-content: space-around;
+}
+
+section{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
 }
