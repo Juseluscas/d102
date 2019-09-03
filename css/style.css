@@ -1,0 +1,22 @@
+a:hover{
+    font-size: 16pt;
+}
+
+body{
+    margin: 0%;
+}
+
+header{
+    background-image: url(MinecraftiaRegular);
+}
+
+nav{
+    align-items: center;
+    background-color: gray;
+    height: 50px;
+    font-family: 'MinecraftiaRegular'; 
+    font-weight: normal; 
+    font-style: normal;
+    display: flex;
+    justify-content: space-around;
+}
